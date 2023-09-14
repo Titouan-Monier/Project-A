@@ -1,0 +1,17 @@
+.logoA {
+    font-family: 'Muli', sans-serif;
+    font-weight:100;
+    text-transform:uppercase;
+    font-size:40px;
+    color:#545454;
+    line-height:0.3;
+  }
+#under {
+    margin: 0px;
+    padding: 0px;
+    color: rgba(0, 0, 0, 0);
+    background:#000000;
+  }
+  .flex {
+    display: flex;
+  }
